@@ -13,7 +13,7 @@ void solve(){
     
     
     while(t--){
-        ll n;
+        int n;
         cin>>n;
         
     }
