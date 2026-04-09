@@ -8,15 +8,15 @@ typedef long long ll;
 */
 
 void solve(){
-    int t;
-    cin>>t;
-    
-    
-    while(t--){
-        int n;
-        cin>>n;
+        int t;
+        cin>>t;
         
-    }
+        
+        while(t--){
+            int n;
+            cin>>n;
+            
+        }
 }
 
 int main(){
